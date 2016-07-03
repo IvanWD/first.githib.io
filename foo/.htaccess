@@ -1,0 +1,5 @@
+# Комментарий
+DirectoryIndex idex.php index.php
+Options Indexes
+
+php_flag asp_tags on
